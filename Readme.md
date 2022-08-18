@@ -22,6 +22,6 @@ A Product Based Company Website built using HTML and CSS.The location is embeded
 
 https://abhigyan-srivastava.github.io/Product_Based_Company_Basic_Website_Udemy_Project/
 
-## Authors
+## Author
 
 - [@Abhigyan-Srivastava](https://github.com/Abhigyan-Srivastava)
